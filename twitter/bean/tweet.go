@@ -1,4 +1,4 @@
-package twitter
+package bean
 
 type Tweet struct {
 	NumResults      int64         `json:"num_results"`
